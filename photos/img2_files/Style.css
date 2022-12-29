@@ -1,0 +1,71 @@
+body{
+  font-family: 'Sono', sans-serif;
+}
+
+.getcode {
+    transition-duration: 0.4s;
+    background-color: white;
+    border: none;
+  color: #4F46E5;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:  'Sono';
+  font-style: bold;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  
+.getcode:hover {background-color: whitesmoke;}
+  
+.bar{
+    font-family: Nerko One;
+    font-size: xx-large;
+}
+
+.bar1{
+  font-family: 'Sono';
+  font-size: 16px;
+}
+
+.bar2{
+  font-family: 'Sono';
+  font-size: 65px;
+}
+
+.bar2color{
+  color: #4F46E5;
+ 
+}
+
+.bar2color2{
+  color: #6B7280;
+  font: 20px;
+}
+
+.kick{
+  margin-top: 100px;
+}
+
+.readmore{
+  transition-duration: 0.4s;
+  background-color: #4F46E5;
+  border: none;
+color: white;
+padding: 8px 16px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-family:  'Sono';
+font-style: bold;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.textbar{
+  text-align: justify;
+}
+
+.cardcolor{
+  background-color: #e0e7ff
+}
+
